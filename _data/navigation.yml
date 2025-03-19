@@ -17,3 +17,15 @@ main:
   - title: "CV"
     url: /cv/
     url: /files/Badradin_CV .pf/
+
+main:
+  - title: "Home"
+    url: /
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Publications"
+    url: /publications/
+  - title: "Research"
+    url: /research/
+  - title: "CV"
+    url: /cv/
