@@ -1,6 +1,5 @@
 ---
-title: "Teaching experience"
-collection: teaching
+title: "Teaching Assistant"
 type: "Undergraduate course"
 venue: "University 1, Department"
 date: 2014-01-01
