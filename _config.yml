@@ -25,10 +25,10 @@ author:
   avatar           : "badradin.jpeg"
   name             : "Badradin Mohammed"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. Student at the University of Maryland, College Park"
   location         : "College Park, MD"
   employer         : "University of Maryland"
-  uri              : # URL
+  uri              : "https://gvpt.umd.edu/gradprofile/mohammed/badradin" # URL
   email            : "bmohamm1@umd.edu" 
 
   # Academic websites
@@ -42,7 +42,7 @@ author:
 
   # Social media
   
-  linkedin         : "Badradin Mohammed" # Username
+  linkedin         : "Badradin-Mohammed" # Username
   twitter          : "Badradin_M" # Username for X / Twitter
 
 
