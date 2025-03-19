@@ -10,13 +10,10 @@
 main:
   - title: "Research"
     url: /research/
-    collection: research
-    ---
-    Research assistant for Prof.
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "CV"
     url: /cv/
-    url: /files/Badradin_CV .pf
+    url: /files/Badradin_CV .pf/
