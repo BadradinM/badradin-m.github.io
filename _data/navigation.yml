@@ -10,6 +10,8 @@
 main:
   - title: "Research"
     url: /research/
+    collection: research
+    ---
     Research assistant for Prof.
 
   - title: "Teaching"
