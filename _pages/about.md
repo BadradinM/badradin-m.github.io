@@ -15,3 +15,4 @@ I study International Relations and Comparative Politics. My research focuses on
 Before coming to the University of Maryland, I received my bachelor’s degree in International Affairs from Eastern Washington University. 
 
  
+You can reach me at:  badradinm1@umd.edu 
