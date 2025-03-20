@@ -9,11 +9,8 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-GVPT 457: American Foreign Relations
-======
+# GVPT 457: American Foreign Relations
 
-GVPT 200: Introduction to International Relations 
-======
+# GVPT 200: Introduction to International Relations
 
-Heading 3
-======
+# Heading 3

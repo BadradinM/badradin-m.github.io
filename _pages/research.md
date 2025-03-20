@@ -8,7 +8,7 @@ collection: research
 
 ## Work in-progress
 
-- **Project Name 1:** Brief description here.
+- **“Intrastate water-related Conflict & Cooperation: The role of Environmental NGOs”** 
 - **Project Name 2:** Brief description here.
 
  
