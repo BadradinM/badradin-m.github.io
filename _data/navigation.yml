@@ -12,7 +12,7 @@ main:
     url: /research/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching-experience/    
     
   - title: "CV"
     url: /cv/
@@ -24,7 +24,7 @@ main:
   - title: "Research"
     url: /research/
   - title: "Teaching"
-    url: /teaching/
+    url: /teaching-experience/
   - title: "CV"
     url: /cv/
     url: /files/Badradin_old.pdf
